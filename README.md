@@ -1,11 +1,11 @@
-# Ali Esmail — Personal Portfolio
+# abdalla walid — Personal Portfolio
 
 A responsive, single-page personal portfolio built with HTML5, custom CSS, Bootstrap 5, and a small JavaScript enhancement.
 
 ## Project structure
 
 ```text
-ali-esmail-portfolio/
+abdalla-walid-portfolio/
 ├── index.html
 ├── css/
 │   └── style.css
