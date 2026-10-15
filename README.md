@@ -40,7 +40,7 @@ For a more convenient local development workflow, open the folder in VS Code and
 
 1. Sign in at https://github.com/.
 2. Click **New repository**.
-3. Name it `ali-esmail-portfolio`.
+3. Name it `abdalla-walid-portfolio`.
 4. Choose **Public** if your instructor needs to access it without signing in. Do not upload passwords or private information.
 5. Create the repository.
 6. Click **Add file → Upload files**.
@@ -56,7 +56,7 @@ git init
 git add .
 git commit -m "Create personal portfolio"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/ali-esmail-portfolio.git
+git remote add origin https://github.com/YOUR-USERNAME/abdalla-walid-portfolio.git
 git push -u origin main
 ```
 
@@ -69,7 +69,7 @@ Replace `YOUR-USERNAME` with your actual GitHub username. If Git asks you to sig
 3. Under **Build and deployment**, choose **Deploy from a branch**.
 4. Choose branch `main` and folder `/ (root)`, then save.
 5. Wait for deployment. Your live site URL will usually be:
-   `https://YOUR-USERNAME.github.io/ali-esmail-portfolio/`
+   `https://YOUR-USERNAME.github.io/abdalla walid-portfolio/`
 
 The repository link and the live website link are different. Submit the repository link if the assignment specifically asks for the GitHub repository; you can also include the live website link if the form allows it.
 
